@@ -1,0 +1,16 @@
+@import url("reset.css");
+@import url("fonts.css");
+@import url("layout.css");
+@import url("header.css");
+@import url("footer.css");
+@import url("images.css");
+@import url("links.css");
+@import url("headings.css");
+@import url("cards.css");
+
+body {
+  font-family: "Arcade", sans-serif;
+}
+.plus {
+  font-family: Sans-serif;
+}

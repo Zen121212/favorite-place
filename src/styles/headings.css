@@ -1,0 +1,17 @@
+h1 {
+  font-size: 24px;
+}
+.h1-style {
+  text-align: center;
+  color: #000;
+  background-color: #be0a13;
+  border: 4px dashed;
+  padding: 20px;
+  width: fit-content;
+  margin: auto;
+  margin-bottom: 16px;
+  min-width: 500px;
+}
+h2 {
+  font-size: 18px;
+}

@@ -1,0 +1,41 @@
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 12px 24px;
+  background-color: #000;
+}
+
+header .logo {
+  display: flex;
+  gap: 12px;
+  justify-content: center;
+  align-items: center;
+}
+header .logo span {
+  color: #fff;
+}
+header .logo img {
+  height: 80px;
+  width: auto;
+}
+
+nav ul {
+  display: flex;
+}
+
+nav ul li {
+  margin: 0 15px;
+}
+
+nav ul li a {
+  font-weight: bold;
+  font-size: 24px;
+  color: #ffe605;
+  padding-bottom: 16px;
+  transition: color 0.3s ease;
+}
+
+nav ul li a:hover {
+  color: #be0a13;
+}
